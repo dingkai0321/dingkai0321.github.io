@@ -2,8 +2,8 @@
 layout: default
 permalink: /blog/
 title: blog
-nav: false
-published: false
+description: Learning notes and technical write-ups.
+nav: true
 nav_order: 1
 pagination:
   enabled: true
