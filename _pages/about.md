@@ -27,10 +27,10 @@ latest_posts:
 ---
 你好，我是丁凯，目前在悉尼大学攻读计算机科学硕士，本科毕业于天津理工大学计算机科学与技术专业。
 
-我的研究主要围绕高效 Vision Transformer 架构展开。毕业论文题为《Class-Attention-Guided Adaptive Token Clustering for Efficient Vision Transformers》，重点关注如何利用 class attention、adaptive budget 和 token clustering，在尽量保持分类性能的前提下压缩冗余视觉 token，提升模型的计算效率与部署可行性。
+我的研究主要围绕高效 Vision Transformer 架构展开。目前在悉尼大学的研究工作由 [Dr. Karlos Ishac](https://karlosishac.com/) 指导。毕业论文题为《Class-Attention-Guided Adaptive Token Clustering for Efficient Vision Transformers》，重点关注如何利用 class attention、adaptive budget 和 token clustering，在尽量保持分类性能的前提下压缩冗余视觉 token，提升模型的计算效率与部署可行性。
 
 除了研究工作，我也持续投入到 AI 系统与工程实践中。在联想（北京）有限公司的 AI 工程师实习中，我参与设计并开发了面向 FIFA 营销物料的多模态 RAG 合规审核系统，覆盖品牌规范解析、知识库构建、混合检索、视觉合规判定以及审核结果追溯。这段经历让我更加关注模型能力如何和检索、视觉理解、规则约束及工程化流程结合，真正服务实际业务场景。
 
-在个人项目方面，我开发了 Otto，一个基于 Claude Code 的个人 AI 助手。它支持 CLI、Web Dashboard 和语音三种入口，具备长期记忆、Knowledge RAG、Skill/MCP 扩展、上下文治理、任务进度管理以及多 agent 协作等能力。这个项目延续了我的兴趣方向：把大模型能力、工具调用和系统约束组织成可持续演进的工程系统。
+在个人项目方面，我持续把公开仓库与研究、工程工作同步整理到网站里。目前网站已经接入了 `vit-clustering`、`otto-agent` 和 `cinematic-l1-video-stabilization` 三个 GitHub 项目，方便直接查看代码、说明和对应的研究实现。
 
 这个网站会持续记录我的研究、项目和技术笔记。目前这里主要聚焦三类内容：高效视觉模型与模型压缩、RAG/Agent 系统设计，以及学习与实践中的阶段性总结。你可以继续通过 Projects、CV 和 Publications 页面了解我正在推进的工作。

@@ -3,4 +3,7 @@ github_users:
 
 repo_description_lines_max: 2
 
-github_repos: []
+github_repos:
+  - dingkai0321/vit-clustering
+  - dingkai0321/otto-agent
+  - dingkai0321/cinematic-l1-video-stabilization

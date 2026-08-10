@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Class-Attention-Guided Adaptive Token Clustering for Efficient Vision Transformers
-description: Master's thesis on adaptive token compression for efficient Vision Transformers.
+title: vit-clustering
+description: Adaptive token clustering for DeiT/ViT in PyTorch.
 img:
 importance: 1
 category: Research
+github: https://github.com/dingkai0321/vit-clustering
 ---
 
-This project is my University of Sydney research thesis on improving the efficiency of Vision Transformers by reducing redundant patch tokens without discarding useful information too aggressively.
+`vit-clustering` is the code-facing project behind my University of Sydney thesis on improving the efficiency of Vision Transformers by reducing redundant patch tokens without discarding useful information too aggressively.
+
+This work was carried out under the supervision of [Dr. Karlos Ishac](https://karlosishac.com/).
 
 The core method combines three ideas:
 
@@ -23,5 +26,7 @@ Two practical findings shaped the conclusion:
 - On `DeiT-Tiny`, adaptive clustering overhead dominated the savings, so real latency did not improve.
 
 The thesis argues that efficient ViT design should be evaluated beyond GFLOPs, with latency, throughput, memory behavior, and hardware friendliness considered together.
+
+[GitHub Repository](https://github.com/dingkai0321/vit-clustering)
 
 [Read thesis PDF]({{ '/assets/pdf/kai_ding_thesis.pdf' | relative_url }})

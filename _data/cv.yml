@@ -5,7 +5,7 @@ cv:
   phone: "+86 13783798601"
   website: https://dingkai0321.github.io
   image: ""
-  summary: Master's student in Computer Science at the University of Sydney, with research focused on efficient Vision Transformer architectures and project experience spanning multimodal RAG, compliance automation, agent infrastructure, and context governance.
+  summary: Master's student in Computer Science at the University of Sydney, advised by [Dr. Karlos Ishac](https://karlosishac.com/), with research focused on efficient Vision Transformer architectures and project experience spanning multimodal RAG, compliance automation, agent infrastructure, and context governance.
 
   social_networks:
     - network: GitHub
@@ -26,6 +26,7 @@ cv:
         end_date: Present
         highlights:
           - Research pathway focused on adaptive token compression and efficient Vision Transformer design.
+          - Advised by [Dr. Karlos Ishac](https://karlosishac.com/).
 
       - institution: Tianjin University of Technology
         location: Tianjin, China
@@ -52,7 +53,7 @@ cv:
         publisher: The University of Sydney
         releaseDate: 2026-05-30
         url: /assets/pdf/kai_ding_thesis.pdf
-        summary: Master's thesis on adaptive token clustering for Vision Transformers, using class attention, adaptive token budgets, and feature-position clustering to compress redundant visual tokens while preserving classification performance.
+        summary: Master's thesis on adaptive token clustering for Vision Transformers, supervised by [Dr. Karlos Ishac](https://karlosishac.com/), using class attention, adaptive token budgets, and feature-position clustering to compress redundant visual tokens while preserving classification performance.
 
     Skills:
       - name: AI Engineering
