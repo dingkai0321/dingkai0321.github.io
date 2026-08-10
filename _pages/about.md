@@ -6,7 +6,7 @@ subtitle: University of Sydney MCS | Efficient Vision Transformers and AI System
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: website_image.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>2531046278@qq.com</p>
