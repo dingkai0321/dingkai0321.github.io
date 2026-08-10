@@ -25,9 +25,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-你好，我是丁凯，目前在悉尼大学攻读计算机科学硕士，本科毕业于天津理工大学计算机科学与技术专业。
+你好，我是丁凯，目前在悉尼大学攻读计算机科学硕士。
 
-我的研究主要围绕高效 Vision Transformer 架构展开。目前在悉尼大学的研究工作由 [Dr. Karlos Ishac](https://karlosishac.com/) 指导。毕业论文题为《Class-Attention-Guided Adaptive Token Clustering for Efficient Vision Transformers》，重点关注如何利用 class attention、adaptive budget 和 token clustering，在尽量保持分类性能的前提下压缩冗余视觉 token，提升模型的计算效率与部署可行性。
+我的研究主要围绕高效 Vision Transformer 架构展开。目前在悉尼大学的研究工作由 [Dr. Karlos Ishac](https://karlosishac.com/) 指导，重点关注如何在尽量保持模型性能的前提下压缩冗余视觉 token，提升模型的计算效率与部署可行性。
 
 除了研究工作，我也持续投入到 AI 系统与工程实践中。在联想（北京）有限公司的 AI 工程师实习中，我参与设计并开发了面向 FIFA 营销物料的多模态 RAG 合规审核系统，覆盖品牌规范解析、知识库构建、混合检索、视觉合规判定以及审核结果追溯。这段经历让我更加关注模型能力如何和检索、视觉理解、规则约束及工程化流程结合，真正服务实际业务场景。
 
