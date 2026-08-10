@@ -42,9 +42,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-class-attention-guided-adaptive-token-clustering-for-efficient-vision-transformers",
-          title: 'Class-Attention-Guided Adaptive Token Clustering for Efficient Vision Transformers',
-          description: "Master&#39;s thesis on adaptive token compression for efficient Vision Transformers.",
+            },},{id: "projects-vit-clustering",
+          title: 'vit-clustering',
+          description: "Adaptive token clustering for DeiT/ViT in PyTorch.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-fifa-brand-compliance-review-system",
@@ -52,11 +52,16 @@ ninja.data = [{
           description: "Multimodal RAG compliance review system for Lenovo FIFA marketing materials.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-otto-personal-ai-assistant",
-          title: 'Otto Personal AI Assistant',
-          description: "A personal AI assistant with memory, tools, and context governance.",
+            },},{id: "projects-otto-agent",
+          title: 'otto-agent',
+          description: "A transparent, local-first agent runtime with memory, skills, tasks, subagents, and context governance.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-cinematic-l1-video-stabilization",
+          title: 'cinematic-l1-video-stabilization',
+          description: "Paper-style Cinematic-L1 video stabilization with log-homography optimization and baseline comparisons.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
